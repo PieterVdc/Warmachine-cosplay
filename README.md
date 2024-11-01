@@ -4,7 +4,8 @@
 cosplay buildlog of the Ironman 2 version of warmachine\
 --insert pic of finished cosplay--
 
-started building 
+started building after completing my first iron man costume the mk39 starboost from ironman 3
+![starbsmall](https://github.com/user-attachments/assets/9ffd07ae-8d0a-4b9c-a6c2-8bd42cfad441)
 
 ## references
 
