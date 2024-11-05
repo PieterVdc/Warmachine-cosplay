@@ -33,3 +33,14 @@ and on the leg, those are 2 seperate panels instead of a solid piece
 ![leg](https://github.com/user-attachments/assets/a3d46a9b-93d0-44d9-bc59-048e8a22f843)
 
 leg, even though accurate to the movie seems to have the thruster intersecting with where my lower leg is supposed to be, so that part will also need to be tackled if it's going to be something I can actually wear
+
+
+# BOM
+| Item      | Link      |
+| ------------- | ------------- |
+| gloves | .. |
+| servo | .. |
+| fillament | .. |
+| paint | .. |
+| esp32 | .. |
+| led_eyes | .. |
