@@ -13,6 +13,13 @@ started by watching the movie, and taking screenshots,\
 also found [this warmachine youtube compilation video](https://www.youtube.com/watch?v=4aNuh1j124o)
 first 3 minutes are of the Iron man 2 Movie, just missing the roof scene, and an earlier close up of the ex-wife missle wich screenshots are in screenshot folder
 
+## improvements over the mk39
+
+the mk39 leg movement is very limited, can only walk slowly and have a high chance of breaking something when walking up stairs, so that's definitly something I want to improve,\
+functionality wise the mk39 led eyes, motor for the faceplate, but those were to weak to really lift the plate and a repulsor led in the right hand, 
+for warmachine I'd like to so at least those, and also add thrusters with smoke and opening clap, and make the mini gun rotate
+paint wise, this time I'll go with laquer instead of acrylic
+mk39 also had some quite thin panels, with 3dprinting you can easily make them bit thicker without adding weight, greatly improving strenght, thus avoiding trips to the repair booth when used on a con
 
  ## model
 
