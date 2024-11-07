@@ -45,4 +45,5 @@ leg, even though accurate to the movie seems to have the thruster intersecting w
 | esp32      | ..                                                    |                                     |
 | led_eyes   | ..                                                    |                                     |
 | smoke kits | [costronica](https://costronica.com/en-nl/product/costronica-pocket-smoke-toggle) | 5 pieces, and some connectors for them |
+| arc reactor led   | [aliexpress](https://www.aliexpress.com/item/1005007582170492.html)                                                   |                                     |
 
