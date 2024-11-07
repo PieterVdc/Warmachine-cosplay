@@ -36,11 +36,13 @@ leg, even though accurate to the movie seems to have the thruster intersecting w
 
 
 # BOM
-| Item      | Link      |
-| ------------- | ------------- |
-| gloves | .. |
-| servo | .. |
-| fillament | .. |
-| paint | .. |
-| esp32 | .. |
-| led_eyes | .. |
+| Item       | Link                                                  | Note                                |
+|------------|-------------------------------------------------------|-------------------------------------|
+| gloves     | ..                                                    |                                     |
+| servo      | ..                                                    |                                     |
+| filament   | ..                                                    |                                     |
+| paint      | ..                                                    |                                     |
+| esp32      | ..                                                    |                                     |
+| led_eyes   | ..                                                    |                                     |
+| smoke kits | [costronica](https://costronica.com/en-nl/product/costronica-pocket-smoke-toggle) | 5 pieces, and some connectors for them |
+
