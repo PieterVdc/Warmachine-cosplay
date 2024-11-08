@@ -34,6 +34,16 @@ and on the leg, those are 2 seperate panels instead of a solid piece
 
 leg, even though accurate to the movie seems to have the thruster intersecting with where my lower leg is supposed to be, so that part will also need to be tackled if it's going to be something I can actually wear
 
+#Electronics
+##legs
+##arms
+##helmet
+##back
+##minigun
+##front
+front only contains the arc led with a battery attached
+
+
 
 # BOM
 | Item       | Link                                                  | Note                                |
