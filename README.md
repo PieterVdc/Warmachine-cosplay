@@ -34,13 +34,21 @@ and on the leg, those are 2 seperate panels instead of a solid piece
 
 leg, even though accurate to the movie seems to have the thruster intersecting with where my lower leg is supposed to be, so that part will also need to be tackled if it's going to be something I can actually wear
 
-#Electronics
-##legs
-##arms
-##helmet
-##back
-##minigun
-##front
+# Electronics
+all sections will have an esp8266 or 32 wich will wirelessly comunicate with the main esp in the arm, said arm will also communicate with phone
+## legs
+servo, led, smoke
+## arms
+1 arm has display with some buttons, this will controll all other 
+both arms repulors led, and smoke
+## helmet
+Led eyes, 2 servos for opening
+## back
+2 servos for thrusters, 2 leds, 1 smoke with splitter 1 lineair actuator to lift minigun
+## minigun
+will rotate, 
+1 esp8266, 1 motor for barrel rotation, 6 leds, 1 servo for aiming, system to get electric to barrel
+## front
 front only contains the arc led with a battery attached
 
 
