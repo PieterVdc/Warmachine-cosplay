@@ -62,6 +62,7 @@ front only contains the arc led with a battery attached
 | paint      | ..                                                    |                                     |
 | esp32      | ..                                                    |                                     |
 | led_eyes   | ..                                                    |                                     |
+| arm display   | [aliexpress](https://nl.aliexpress.com/item/1005007800543502.html) |                                     |
 | smoke kits | [costronica](https://costronica.com/en-nl/product/costronica-pocket-smoke-toggle) | 5 pieces, and some connectors for them |
 | arc reactor led   | [aliexpress](https://www.aliexpress.com/item/1005007582170492.html)                                                   |                                     |
 
