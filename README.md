@@ -63,7 +63,7 @@ items marked as n/a I had laying around, so didn't look for a place to buy
 | filament   | [sunlu](https://www.sunlu.com/en-fr/products/10kg-wholesale-recycled-filament-petg-3d-printer-filament-1kg-roll)                                                  |                                     |
 | paint      | ..                                                    |                                     |
 | esp32/8266 | n/a                                                   |                                     |
-| led_eyes   | ..                                                    |                                     |
+| led_eyes   | [aliexpress](https://nl.aliexpress.com/item/4001313545899.html)                                                    |                                     |
 | arm display   | [aliexpress](https://nl.aliexpress.com/item/1005007800543502.html) |                     |
 | smoke kits | [costronica](https://costronica.com/en-nl/product/costronica-pocket-smoke-toggle) | 5 pieces, and some connectors for them |
 | arc reactor led   | [aliexpress](https://www.aliexpress.com/item/1005007582170492.html)|                 |
@@ -77,6 +77,7 @@ items marked as n/a I had laying around, so didn't look for a place to buy
 
 
 https://nl.aliexpress.com/item/1005004300008638.html
+https://nl.aliexpress.com/item/1005004587362809.htm
 
 
 
