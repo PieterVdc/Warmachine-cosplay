@@ -74,6 +74,9 @@ items marked as n/a I had laying around, so didn't look for a place to buy
 | bearing balls        | ..                                     |                                     |
 | barrel_led           | ..                                     |                                     |
 | random old motor shaft   | n/a  |                             |
+| pvc pipe 16mm   | [hubo](https://www.hubo.be/nl/p/buis-16mm-3m-pvc-grijs/318167/)  |                             |
+
+
 
 
 https://nl.aliexpress.com/item/1005004300008638.html
