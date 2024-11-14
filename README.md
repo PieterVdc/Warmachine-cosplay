@@ -54,15 +54,30 @@ front only contains the arc led with a battery attached
 
 
 # BOM
+
+items marked as n/a I had laying around, so didn't look for a place to buy
 | Item       | Link                                                  | Note                                |
 |------------|-------------------------------------------------------|-------------------------------------|
 | gloves     | ..                                                    |                                     |
 | servo      | ..                                                    |                                     |
-| filament   | ..                                                    |                                     |
+| filament   | [sunlu](https://www.sunlu.com/en-fr/products/10kg-wholesale-recycled-filament-petg-3d-printer-filament-1kg-roll)                                                  |                                     |
 | paint      | ..                                                    |                                     |
-| esp32      | ..                                                    |                                     |
+| esp32/8266 | n/a                                                   |                                     |
 | led_eyes   | ..                                                    |                                     |
-| arm display   | [aliexpress](https://nl.aliexpress.com/item/1005007800543502.html) |                                     |
+| arm display   | [aliexpress](https://nl.aliexpress.com/item/1005007800543502.html) |                     |
 | smoke kits | [costronica](https://costronica.com/en-nl/product/costronica-pocket-smoke-toggle) | 5 pieces, and some connectors for them |
-| arc reactor led   | [aliexpress](https://www.aliexpress.com/item/1005007582170492.html)                                                   |                                     |
+| arc reactor led   | [aliexpress](https://www.aliexpress.com/item/1005007582170492.html)|                 |
+**minigun**
+| motor                | n/a                                    |                                     |
+| timing belt          | ..                                     |                                     |
+| timing belt pulley   | ..                                     |                                     |
+| bearing balls        | ..                                     |                                     |
+| barrel_led           | ..                                     |                                     |
+| random old motor shaft   | n/a  |                             |
+
+
+https://nl.aliexpress.com/item/1005004300008638.html
+
+
+
 
